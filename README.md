@@ -15,3 +15,5 @@ This is Simple student management system build in java and sqlite android applic
 <img src="https://github.com/PRAVEEN7230/Students_Record_Management/blob/main/demo/preview4.jpeg" width="260" height="450" />
 <img src="https://github.com/PRAVEEN7230/Students_Record_Management/blob/main/demo/preview5.jpeg" width="260" height="450" />
 </p>
+
+<a href='https://github.com/PRAVEEN7230/Students_Record_Management/raw/main/app/release/app-release.apk'>`Download and Try Apk`</a>
