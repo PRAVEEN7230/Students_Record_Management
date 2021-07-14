@@ -3,6 +3,7 @@ This is Simple student management system build in java and sqlite android applic
 
 
 ## Student Details App:
+
 <p float="left">
  <img src="https://github.com/PRAVEEN7230/Students_Record_Management/blob/master/demo/preview1.jpg" width="260" height="450" />
 <img src="https://github.com/PRAVEEN7230/Students_Record_Management/blob/master/demo/preview2.jpg" width="260" height="450" />
